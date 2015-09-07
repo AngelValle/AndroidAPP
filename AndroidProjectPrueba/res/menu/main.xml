@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.angel.androidprojectprueba.MainActivity" >
+
+<!--     <item -->
+<!--         android:id="@+id/action_settings" -->
+<!--         android:orderInCategory="100" -->
+<!--         android:showAsAction="never" -->
+<!--         android:title="@string/action_settings"/> -->
+    
+    <item
+        android:id="@+id/action_1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_1"/>
+   
+    <item
+        android:id="@+id/action_2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_2"/>
+    
+    <item
+        android:id="@+id/action_3"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_3"/>
+    
+    <item
+        android:id="@+id/action_4"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_4"/>
+
+    <item
+        android:id="@+id/action_5"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_5"/>
+    
+    <item
+        android:id="@+id/action_close"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_close"/>
+    
+</menu>

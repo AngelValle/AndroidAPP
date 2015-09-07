@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prueba Android : Angel</string>
+    <string name="app_nameparejas">Empareja Los Colores : Angel</string>
+    <string name="app_nametiempo">El Tiempo : Angel</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Opciones</string>
+    <string name="b_registrar">Registrar</string>
+    <string name="b_loguear">Logear</string>
+    <string name="vistaingresar">Nombre de usuario:</string>
+    <string name="vistadevuelto">Clave:</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_1">1. El Marca</string>
+    <string name="action_2">2. El AS</string>
+    <string name="action_3">3. El Confidencial</string>
+    <string name="action_4">4. EmparejaLosColores</string>
+    <string name="action_5">5. El Tiempo</string>
+    <string name="toast_normal">Toast Normal</string>
+    <string name="toast_gravity">Toast Gravity</string>
+    <string name="toast_personalizado">Toast Personalizado</string>
+
+</resources>

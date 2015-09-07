@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidProjectPrueba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="boton">Ok!</string>
+    <string name="vistaingresar">Word here:</string>
+    <string name="vistadevuelto">Inverted word:</string>
+
+</resources>

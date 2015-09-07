@@ -1,0 +1,59 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.angel.androidprojectprueba.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/vistaingresar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vistaingresar" />
+
+        <EditText
+            android:id="@+id/textuser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/vistadevuelto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vistadevuelto" />
+
+        <EditText
+            android:id="@+id/textclave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberPassword" />
+
+        <Button
+            android:id="@+id/registrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="mostrar"
+            android:text="@string/b_registrar" />
+
+        <Button
+            android:id="@+id/loguear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/b_loguear" />
+
+    </LinearLayout>
+
+</FrameLayout>
+
